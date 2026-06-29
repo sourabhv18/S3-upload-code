@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "python ""D:\Coding\IngestionfromAPI\S3Watcher.py""", 0, True
